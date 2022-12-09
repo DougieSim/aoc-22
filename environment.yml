@@ -4,3 +4,4 @@ dependencies:
   - numpy 
   - m2-base
   - ipykernel
+  - pytest
