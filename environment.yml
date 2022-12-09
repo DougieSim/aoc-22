@@ -1,0 +1,6 @@
+name: adv-of-code
+
+dependencies:
+  - numpy 
+  - m2-base
+  - ipykernel
